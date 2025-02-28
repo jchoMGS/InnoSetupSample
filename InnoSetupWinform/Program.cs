@@ -11,7 +11,7 @@ namespace InnoSetupWinform
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        /// test2
+        /// test3
         [STAThread]
         static void Main()
         {
